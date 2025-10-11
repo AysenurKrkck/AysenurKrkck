@@ -4,6 +4,8 @@ Hi, I'm Ayşenur 👋 ! ​In this space, I showcase my projects developed using
 Merhaba, ben Ayşenur 👋 ! ​Bu alanda, C#, C++, Python, HTML, CSS ve JavaScript gibi çeşitli dillerde geliştirdiğim projelerimi sergiliyorum. Şu an ağırlıklı olarak C++ ile yazdığım kodları görebilirsiniz, ancak gelecekte diğer dillerdeki çalışmalarımı da burada paylaşmayı planlıyorum.
 ​Yeni teknolojiler öğrenmeye ve farklı alanlarda projeler geliştirmeye her zaman açığım. Kodlarıma göz atmak veya benimle iletişime geçmek isterseniz, çekinmeyin!
 
-
-
-![snake gif](https://github.com/AysenurKrkck/AysenurKrkck/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AysenurKrkck/AysenurKrkck/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AysenurKrkck/AysenurKrkck/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AysenurKrkck/AysenurKrkck/output/github-contribution-grid-snake.svg">
+</picture>
